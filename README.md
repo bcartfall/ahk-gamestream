@@ -13,7 +13,7 @@ Download AutoHotKey https://www.autohotkey.com/ and run scripts. Since the scrip
 
 # Preview
 
-[![Demo Video](./assets/demo.jpg)](./assets/demo.mp4)
+https://user-images.githubusercontent.com/8977296/210911219-117b788e-bf7a-4cb2-b682-1ff590e2a49f.mp4
 
 # Licence
 
