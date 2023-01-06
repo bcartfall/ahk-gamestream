@@ -13,7 +13,7 @@ Download AutoHotKey https://www.autohotkey.com/ and run scripts. Since the scrip
 
 # Preview
 
-TODO Video Preview
+[![Demo Video](./assets/demo.jpg)](./assets/demo.mp4)
 
 # Licence
 
